@@ -33,3 +33,8 @@ truffle migrate --reset
 
 ## Setting up the Accounts in Metamask
 Copy private keys available on terminal through ganache-cli to Metamask extension which is connected to our local network (127.0.0.1:8545)
+
+### Every time you want to re-create a new Referendum, run the following command
+```bash
+truffle migrate --reset
+```
