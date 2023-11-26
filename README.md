@@ -1,6 +1,15 @@
 # Decentralized-Public-Referendum-Application
 
 
+## Prerequisites
+### Install the following:
+```bash
+NodeJS
+truffle
+ganache-cli
+```
+
+## Setting up the repository
 ```bash
 git clone https://github.com/adarshsajjan/Decentralized-Public-Referendum-Application.git
 cd Decentralized-Public-Referendum-Application
