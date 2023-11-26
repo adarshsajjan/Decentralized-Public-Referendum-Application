@@ -1,4 +1,6 @@
 # Decentralized-Public-Referendum-Application
+
+
 ```bash
 git clone https://github.com/adarshsajjan/Decentralized-Public-Referendum-Application.git
 cd Decentralized-Public-Referendum-Application
@@ -6,7 +8,7 @@ cd Decentralized-Public-Referendum-Application
 
 ## Install UI Modules
 ```bash
-cd voting-feedback-ui
+cd client
 npm install
 ```
 ## Run UI on local
